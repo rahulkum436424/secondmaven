@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: kumra
+Build-Jdk: 21.0.6
+Main-Class: com.example.helloworld.App
+Created-By: Maven Integration for Eclipse
+
